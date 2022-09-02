@@ -1,0 +1,11 @@
+_id: env_1ff0a220b39c4eb699950a2eeb093bb6
+type: Environment
+parentId: env_cd37e390b9760d66e52ade4403e624345b3aab7f
+modified: 1662084456964
+created: 1662084447871
+name: NodeJS
+data: {}
+dataPropertyOrder: {}
+color: null
+isPrivate: false
+metaSortKey: 1662084447871
