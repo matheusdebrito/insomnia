@@ -1,9 +1,9 @@
 _id: req_8c767c9aaecd4a7f8c547fd833494d95
 type: Request
 parentId: wrk_8b35768ec840493fb5ced88ed53fe38a
-modified: 1662084487615
+modified: 1664113476990
 created: 1662084318498
-url: ""
+url: https://localhost:3000/hello
 name: New Request
 description: ""
 method: GET
