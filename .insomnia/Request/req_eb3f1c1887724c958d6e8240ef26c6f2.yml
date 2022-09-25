@@ -1,0 +1,30 @@
+_id: req_eb3f1c1887724c958d6e8240ef26c6f2
+type: Request
+parentId: wrk_8b35768ec840493fb5ced88ed53fe38a
+modified: 1664139459354
+created: 1664139329460
+url: http://localhost:3000/customers/
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Postaman 2",
+    	"site": "http://postman.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1e2ebd08011747259e569690700978ab
+authentication: {}
+metaSortKey: -1662084318448
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
