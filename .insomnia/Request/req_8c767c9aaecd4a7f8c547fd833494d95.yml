@@ -1,10 +1,10 @@
 _id: req_8c767c9aaecd4a7f8c547fd833494d95
 type: Request
 parentId: wrk_8b35768ec840493fb5ced88ed53fe38a
-modified: 1664113476990
+modified: 1664139323225
 created: 1662084318498
-url: https://localhost:3000/hello
-name: New Request
+url: http://localhost:3000/customers/1
+name: Show
 description: ""
 method: GET
 body: {}
